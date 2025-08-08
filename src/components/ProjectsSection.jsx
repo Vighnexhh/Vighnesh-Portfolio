@@ -4,28 +4,28 @@
     id: 1,
     title: "Food Hunter",
     description: "A fully functional food delivery website developed using ASP.NET for the backend and MS SQL for the database. The platform supports user authentication, restaurant listings, order management, and real-time delivery status tracking.",
-    image: "/projects/food.png",
+    image: "./projects/food.png",
     tags: ["asp.net", "ms sql"]
   },
   {
     id: 2,
     title: "VS SPORTS BLOG",
     description: "A dynamic blog platform centered around sports content, built using ASP.NET. It features a responsive layout, comment system, admin dashboard for post management, and SQL database integration for content storage.",
-    image: "/projects/blog.png",
+    image: "./projects/blog.png",
     tags: ["asp.net"]
   },
   {
     id: 3,
     title: "Food Hunter Application",
     description: "A cross-platform mobile application for food delivery, created using Flutter. The UI screens were designed with Figma to ensure a smooth and intuitive user experience. Features include restaurant browsing, cart management, and order tracking.",
-    image: "/projects/app.png",
+    image: "./projects/app.png",
     tags: ["flutter", "figma"]
   },
   {
     id: 4,
     title: "Cake Delivery Application",
     description: "A user-friendly mobile application prototype for cake delivery services, with all UI screens designed in Figma. The design emphasizes visual appeal, ease of navigation, and customization options for cake orders.",
-    image: "/projects/cake.png",
+    image: "./projects/cake.png",
     tags: ["figma"]
   },
   {
