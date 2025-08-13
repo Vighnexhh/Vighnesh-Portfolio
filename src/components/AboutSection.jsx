@@ -22,14 +22,14 @@ export const AboutSection = () => {
                                 Get In Touch
                             </a>
 
-                            <a href="/vighnesh1.pdf"
+                            <a href="/vighnesh.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 onClick={(e) => {
                                     // Trigger download
                                     const link = document.createElement("a");
-                                    link.href = "/vighnesh1.pdf";
-                                    link.download = "vighnesh1.pdf";
+                                    link.href = "/vighnesh.pdf";
+                                    link.download = "vighnesh.pdf";
                                     document.body.appendChild(link);
                                     link.click();
                                     document.body.removeChild(link);
