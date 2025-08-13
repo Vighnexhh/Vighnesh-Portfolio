@@ -22,19 +22,19 @@ export const AboutSection = () => {
                                 Get In Touch
                             </a>
 
-                            <a href="/vighnesh.pdf"
+                            <a href="/vighnesh1.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 onClick={(e) => {
-    // Trigger download
-    const link = document.createElement("a");
-    link.href = "/vighnesh.pdf";
-    link.download = "vighnesh.pdf";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  }}
-                                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                                    // Trigger download
+                                    const link = document.createElement("a");
+                                    link.href = "/vighnesh1.pdf";
+                                    link.download = "vighnesh1.pdf";
+                                    document.body.appendChild(link);
+                                    link.click();
+                                    document.body.removeChild(link);
+                                }}
+                                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                                 Download CV
                             </a>
                         </div>
